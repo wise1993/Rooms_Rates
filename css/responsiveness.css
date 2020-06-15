@@ -1,0 +1,45 @@
+@media screen and (min-width: 320px) and (max-width: 768px) {
+    
+    .innerText {
+        width: 100%;
+        margin-top: 1em;
+        margin-bottom: 4em;
+    }
+
+    .innerText h2 {
+        font-family: 'Playfair Display';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 36px;
+        line-height: 36px;
+        color: #0D3644;
+    }
+
+    .box-background {
+        width: 100%;
+    }
+
+    .box-container {
+        padding-top: 0; 
+        padding-left: 0;
+    }
+
+    .head-text {
+        width: 100%;
+    }
+
+    .head-text hr {
+        background: #F6AE2D;
+        width: 16%;
+        margin-left: 216px;
+        margin-top: 0;
+    }
+
+    .head-text h2 {
+        font-size: 23px;
+    }
+
+    .clear {
+        margin-top: 0;
+    }
+}

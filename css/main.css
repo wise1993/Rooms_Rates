@@ -1,0 +1,333 @@
+.container-edit {
+    margin-top: 5.5em;
+}
+.room-bg {
+    background-image: url('./../img/vid-grid.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.innerText {
+    width: 85%;
+    margin-top: 14em;
+    margin-bottom: 14em;
+}
+
+.innerText h2 {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 64px;
+    color: #0D3644;
+}
+
+.innerText p {
+    font-family: 'Muli';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    color: #0D3644;
+
+}
+.innerText hr {
+    width: 20%;
+    margin: 15px 0;
+    background: #F6AE2D;
+}
+
+.box-background {
+    width: 75%;
+    height: 134px;
+    background: #F7F7F7;
+    position: relative;
+    top: -65px;
+}
+
+.box-container h2 {
+    font-family: 'Muli', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 24px;
+    color: #0D3644;
+}
+
+.box-container h3 {
+    font-family: 'Muli';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #0D3644;
+}
+
+.box-container {
+    padding-top: 2em;
+    padding-left: 3.5em;
+}
+
+.book-me button {
+    background: #F6AE2D;
+    font-family: 'Muli';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    padding: 15px;
+    width: 195px;
+    height: 64px;
+    border-color: transparent;
+    border: none;
+    text-align: center;
+    margin: 4px 2px;
+    /* opacity: 0.6; */
+    transition: 0.3s;
+}
+
+.book-me button:hover {
+    opacity: 0.5;
+    color: #ad1010;
+}
+
+.text-inner {
+    margin-top: 0em;
+    margin-bottom: 5em;
+}
+
+.head-text {
+    width: 50%;
+}
+
+.head-text hr {
+    background: #F6AE2D;
+    width: 26%;
+    margin-left: 174px;
+    margin-top: -9px;
+}
+.head-text h2 {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 44px;
+    color: #0D3644;
+}
+
+.text-edit p {
+    font-family: 'Muli';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    color: #0D3644;
+}
+
+.clear {
+    margin-top: 6em;
+}
+
+.section-banner {
+    height: 394px;
+    background-image: url('./../img/banner.png');
+    margin-bottom: 5em;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.head-top h2 {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 44px;
+    color: #0D3644;
+}
+
+.head-content p {
+    font-family: 'Muli';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    color: #0D3644;
+}
+
+.room-height {
+    margin-top: 3em;
+    margin-bottom: 5em;
+}
+.standard {
+    background-image: url('./../img/standard-room.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.gold {
+    background-image: url('./../img/gold-room.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.silver-container {
+    padding: 0;
+    margin-top: -56px;
+    margin-bottom: 5em;
+}
+.silver-room {
+    height: 400px;
+    background-image: url('./../img/silver-room.png');
+    margin-bottom: 5em;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.offer-bg {
+    /* background-image: url('./../img/silver-room.png'); */
+    background-color: #0D3644;
+    padding: 1em 0 5em 0;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.offer-content h2 {
+    width: 50%;
+    padding-top: 2em;
+    padding-bottom: 1em;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 44px;
+    color: #FFFFFF;
+
+}
+
+.offer-cols h2 {
+    font-family: 'Muli';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 42px;
+    line-height: 44px;
+    color: #FFFFFF;
+    /* text-align: center; */
+
+}
+
+.offer-cols h3 {
+    font-family: 'Muli';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 24px;
+    color: rgba(255, 255, 255, 0.6);
+    /* text-align: center; */
+
+}
+
+.signup-inner {
+    text-align: center;
+    padding: 5em 0;
+}
+
+.signup-inner p {
+    width: 610px;
+    margin: auto;
+    padding: 1.3em 0;
+}
+
+.standard-button {
+    width: 80%;
+    margin: auto;
+    text-align: right;
+    margin-top: 3em;
+    margin-bottom: 14em;
+    margin-left: 38px;
+}
+.standard-button button {
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+    background: transparent;
+    padding: 10px 20px 10px 20px;
+    transition: 0.3;
+}
+
+.standard-button button:hover {
+    opacity: 0.5;
+    color: #000000;
+}
+
+.standard-txt {
+    width: 80%;
+    margin-left: 2em;
+}
+
+.standard-txt h2 {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 44px;
+    color: #FFFFFF;
+
+}
+
+.standard-txt h3 {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+.standard-txt span {
+    font-family: 'Muli';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 24px;
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.silver-button {
+    width: 92%;
+    margin: auto;
+    text-align: right;
+    margin-top: 5em;
+    margin-bottom: 14em;
+    margin-left: 38px;
+}
+
+.silver-button button {
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+    background: transparent;
+    margin-top: 2.5em;
+    padding: 10px 20px 10px 20px;
+}
+
+.silver-button button:hover {
+    opacity: 0.5;
+    color: #000000;
+}
